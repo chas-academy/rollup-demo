@@ -1,0 +1,9 @@
+{
+  "name": "rollup-demo",
+  "devDependencies": {
+    "rollup": "latest"
+  },
+  "scripts": {
+    "bundle": "rollup -c"
+  }
+}
