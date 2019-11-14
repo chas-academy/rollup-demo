@@ -36,4 +36,4 @@ Nu kan du prova dig fram och skapa egna moduler, importera och exportera för at
 - **node & npm**:
   - Vi använder npm (som använder sig av node) för att installera och använda oss av av moduler som är skrivna av andra utvecklare. Dessa kallas fint för  _beroenden_.
 - **rollup**:
-  - Vi använder rollup för att slå samman våra
+  - Vi använder rollup för att slå samman våra moduler till en bundle.
